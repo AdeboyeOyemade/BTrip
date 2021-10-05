@@ -1,0 +1,13 @@
+print("Hello world!")
+print('hello world!\nhello world!')
+print('HELLO' + ' BOYE')
+print("day 1 - python print function")
+print("the function is declared like this")
+print("print('what to print')")
+print("Day 1 - String manipulation")
+print("String concatenation is done with the '+' sign.")
+print('e.g. print("hello" + "world")')
+print("New lines can be created with a backslash and n.")
+#input line of statment
+input('what is your name')
+print("my name is" input("what is your name")
